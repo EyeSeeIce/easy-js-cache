@@ -1,0 +1,10 @@
+node_modules
+/lib
+/dist
+.npmignore
+.parcelrc
+tslint.json
+tsconfig.json
+.idea
+.parcel-cache
+.prettierrc
